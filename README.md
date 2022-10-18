@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @almazmusic and I love JavaScript
+- 👀 I’m interested in all JavaScript stuff like ReactJS, NodeJS and much more
+- 🌱 I’m currently learning NodeJS
+- 📫 You can react me via email almazmusic@gmail or TG @dmitryanderson
